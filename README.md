@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Atakan Demircioğlu
 
 ### 🚀 Aspiring Computer & Cross-Platform UI Engineer
-Hi there! I'm Atakan, a 3rd-year Computer Engineering student at **Kayseri University**[cite: 3]. I am a developer candidate specializing in the **Flutter & Dart** ecosystem, focusing on building responsive UI/UX architectures and mastering the BLoC state management pattern[cite: 3]. I have a strong passion for declarative UI frameworks and am highly motivated to expand my capabilities into **Qt Quick / QML** for high-performance desktop and mobile interfaces[cite: 3]. Prone to teamwork, analytical problem solving, and excited to dive deep into technical documentation[cite: 3]!
+Hi there! I'm Atakan, a 4th-year Computer Engineering student at **Kayseri University**[cite: 3]. I am a developer candidate specializing in the **Flutter & Dart** ecosystem, focusing on building responsive UI/UX architectures and mastering the BLoC state management pattern[cite: 3]. I have a strong passion for declarative UI frameworks and am highly motivated to expand my capabilities into **Qt Quick / QML** for high-performance desktop and mobile interfaces[cite: 3]. Prone to teamwork, analytical problem solving, and excited to dive deep into technical documentation[cite: 3]!
 
 ---
 
